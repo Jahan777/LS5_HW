@@ -3,7 +3,7 @@
 /* 1) ---------------------------------------------------------------------*/
 
 const users = {}
-for (i=1; i<=2; i++){
+for (i=1; i<=10; i++){
 let userismi = prompt('Ismni kiriting')
 let useryoshi = +prompt('Yoshni kiriting')
 const id=i
